@@ -1,0 +1,51 @@
+{
+  "address": {
+  "steet": "359 ovington ave",
+  "zipcode": "11209",
+  "coord": [-73.9557413, 40.7720266]
+},
+  "borough" : "Brooklyn",
+  "cuisine" : "Halal",
+  "menu": [
+    {
+      "ItemName": "Chicken Over Rice",
+      "ItemPrice" : "$6.00",
+      "ItemDescription" : "Shaved Chicken served over your Choice of rice",
+
+      "itemOptions":[
+        {
+          "optionName" : "Yellow Rice",
+          "optionPrice" : "$0.00",
+          "optionDescription" : "Yellow Rice"
+        },
+        {
+          "optionName" : "Spicy Rice",
+          "optionPrice" : "$0.00",
+          "optionDescription" : "Spicy Rice"
+        },
+        {
+          "optionName" : "Pita Bread",
+          "optionPrice" : "$1.00",
+          "optionDescription" : "Sliced pita bread covered in white sauce on top of meal"
+        }
+      }
+
+      ],
+    "grades": [
+        {
+            "date": "2015-05-02",
+            "grade": "A",
+            "score": 11
+        },
+        {
+            "date": "2015-02-14",
+            "grade": "B",
+            "score": 17
+        }
+        ],
+    "Name" : "Bay Ridge Halal",
+    "number" : "1-718-586-2323",
+    "Contact-Email" : "BRHalal@gmail.com",
+    "Resteraunt-id" : "41704620",
+
+    }
